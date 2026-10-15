@@ -1,0 +1,6 @@
+{
+  "name": "StockVision",
+  "description": "Smart stock, inventory, demat-style trading dashboard, POS & business profit management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
